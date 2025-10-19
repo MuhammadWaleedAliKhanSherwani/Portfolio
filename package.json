@@ -1,0 +1,13 @@
+{
+  "name": "waleed-khan-portfolio",
+  "version": "1.0.0",
+  "description": "Waleed Khan Sherwani's Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site - no start required'"
+  },
+  "keywords": ["portfolio", "frontend", "developer"],
+  "author": "Waleed Khan Sherwani",
+  "license": "MIT"
+}
